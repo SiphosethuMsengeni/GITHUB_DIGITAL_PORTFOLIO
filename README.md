@@ -17,17 +17,18 @@
 ---
 
 ## 📋 Table of Contents
-- [👋 Introduction](#introduction)
-- [💬 Business Communication](#1-business-communication)
-- [🎯 Interview Skills](#2-interview-skills)
-- [🎥 Mock Interview Video](#3-mock-interview-video)
-- [🌐 Professional Networking](#4-professional-networking)
-- [⚡ Workplace Etiquette](#5-workplace-etiquette)
-- [🎓 Conclusion](#conclusion)
+1. [Introduction](#1-introduction)
+2. [Business Communication](#2-business-communication)
+3. [Interview Skills](#3-interview-skills)
+4. [Mock Interview Video](#4-mock-interview-video)
+5. [Professional Networking](#5-professional-networking)
+6. [Workplace Etiquette](#6-workplace-etiquette)
+7. [Skills Development Summary](#7-skills-development-summary)
+8. [Conclusion](#8-conclusion)
 
 ---
 
-## 👋 Introduction
+## 1. Introduction
 
 > "This digital portfolio represents my professional and personal growth throughout the Work Readiness Training for PRP372S. It showcases my journey in developing essential workplace skills through evidence-based reflections using the STAR technique."
 
@@ -35,7 +36,7 @@ This portfolio documents my development across five critical areas of workplace 
 
 ---
 
-## 💬 Business Communication
+## 2. Business Communication
 
 <div align="center">
 
@@ -61,7 +62,7 @@ This portfolio documents my development across five critical areas of workplace 
 
 ---
 
-## 🎯 Interview Skills
+## 3. Interview Skills
 
 <div align="center">
 
@@ -87,7 +88,7 @@ This portfolio documents my development across five critical areas of workplace 
 
 ---
 
-## 🎥 Mock Interview Video
+## 4. Mock Interview Video
 
 <div align="center">
 
@@ -114,7 +115,7 @@ This portfolio documents my development across five critical areas of workplace 
 
 ---
 
-## 🌐 Professional Networking
+## 5. Professional Networking
 
 <div align="center">
 
@@ -140,7 +141,7 @@ This portfolio documents my development across five critical areas of workplace 
 
 ---
 
-## ⚡ Workplace Etiquette
+## 6. Workplace Etiquette
 
 <div align="center">
 
@@ -166,7 +167,7 @@ This portfolio documents my development across five critical areas of workplace 
 
 ---
 
-## 🎓 Skills Development Summary
+## 7. Skills Development Summary
 
 ### 📈 Performance Overview
 | Skill Area | Score | Status | Key Strength |
@@ -184,7 +185,7 @@ This portfolio documents my development across five critical areas of workplace 
 
 ---
 
-## 🎓 Conclusion
+## 8. Conclusion
 
 <div align="center">
 
