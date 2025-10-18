@@ -72,15 +72,15 @@ This portfolio documents my development across five critical areas of workplace 
 
 ### 📸 Evidence
 **Academic Excellence & Real-World Application**
+Perfect mastery of interview techniques demonstrated through both assessment and actual job market success*
+
+**Academic Proof:**
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b858257d-14d5-44fe-beae-d20fc9f2776d" />
 
-
-**Academic Proof:**
-> [Interview Skills Proof - Insert screenshot of your 100% score here]
-
 **Real-World Proof:**
-> [Insert BlueSky Intermedia interview invitation email screenshot here]
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c0f50e5-5d0f-49e9-9237-e6f2c078991c" />
+
 
 ### 📝 Reflection (STAR Technique)
 
