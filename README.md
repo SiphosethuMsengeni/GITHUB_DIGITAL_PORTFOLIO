@@ -151,7 +151,8 @@ Perfect mastery of interview techniques demonstrated through both assessment and
 ### 📸 Evidence
 *Demonstrated understanding of networking principles, relationship-building strategies, and "give before you get" philosophy.*
 
-> *[Professional Networking Proof - Insert screenshot of your 80% score here]*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e70d3da9-d01d-427a-a959-d4ae559713e4" />
+
 
 ### 📝 Reflection (STAR Technique)
 
