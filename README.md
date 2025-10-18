@@ -46,8 +46,8 @@ This portfolio documents my development across five critical areas of workplace 
 
 ### 📸 Evidence
 *Completed the Business Communication assessment with perfect mastery of professional communication standards, email etiquette, and virtual meeting conduct.*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4a89b292-807d-4697-82bf-129f36806c37" />
 
-> *[Business Communication Proof - Insert screenshot of your 100% score here]*
 
 ### 📝 Reflection (STAR Technique)
 
@@ -124,7 +124,8 @@ Perfect mastery of interview techniques demonstrated through both assessment and
 ### 📸 Evidence
 *Successfully submitted mock interview video demonstrating practical application of interview techniques in simulated professional setting.*
 
-> *[Mock Interview Video Proof - Insert screenshot of your submission confirmation here]*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/813ac6fc-880e-4b3e-b316-1f1acb0c6355" />
+
 
 ### 📝 Reflection (STAR Technique)
 
