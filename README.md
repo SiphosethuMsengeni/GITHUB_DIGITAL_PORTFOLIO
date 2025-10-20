@@ -46,6 +46,11 @@ This portfolio documents my development across five critical areas of workplace 
 
 ### 📸 Evidence
 *Completed the Business Communication assessment with perfect mastery of professional communication standards, email etiquette, and virtual meeting conduct.*
+
+**Academic proof**
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/04ba5cea-f7d9-4dcc-a87c-a8601497d88a" />
+
+**Real-World Proof**
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4a89b292-807d-4697-82bf-129f36806c37" />
 
 
