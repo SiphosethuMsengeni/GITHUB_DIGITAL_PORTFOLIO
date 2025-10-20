@@ -150,6 +150,11 @@ Perfect mastery of interview techniques demonstrated through both assessment and
 
 ### 📸 Evidence
 *Demonstrated understanding of networking principles, relationship-building strategies, and "give before you get" philosophy.*
+**Academic proof**
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e0b6d582-b9f1-4ed8-ab20-53837c6620df" />
+
+
+**Real-World Proof
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e70d3da9-d01d-427a-a959-d4ae559713e4" />
 
@@ -177,8 +182,14 @@ Perfect mastery of interview techniques demonstrated through both assessment and
 
 ### 📸 Evidence
 *Demonstrated knowledge of professional conduct, confidentiality protocols, and workplace norms including punctuality standards.*
+**Academic Proof:**
 
-> *[Workplace Etiquette Proof - Insert screenshot of your 80% score here]*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/61949773-0aeb-4725-8b51-f1807524ca62" />
+
+ **Real-World Proof**
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3aa1c2bf-4099-447c-8e0e-25bda9f34076" />
+
+
 
 ### 📝 Reflection (STAR Technique)
 
